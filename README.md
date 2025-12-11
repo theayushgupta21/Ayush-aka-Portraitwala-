@@ -34,16 +34,49 @@ I enjoy solving real-world problems using **Java, OOPs, DSA, HTML, CSS, JavaScri
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Java, JavaScript, PHP, C++, SQL  
-**Frontend:** HTML5, CSS3, Tailwind, JS  
-**Backend:** Java Servlets, JDBC, PHP  
-**Database:** MySQL, MongoDB (learning)  
-**Tools:** Git, GitHub, VS Code, Postman  
-**Editing:** Adobe Premiere Pro, Canva  
 
----
+### 👨‍💻 Languages
+- Java  
+- JavaScript  
+- PHP (basic)  
+- C++ (OOP concepts)  
+- SQL  
 
-## 📈 Current Goals (2025)
+### 🌐 Frontend Development
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Basic Tailwind CSS  
+- React.js (learning: components, props, hooks, routing)
+
+### 🔧 Backend Development
+- Java (Core + OOP + mini backend projects)  
+- Servlets & JSP basics  
+- Node.js & Express.js (learning phase)
+
+### 🗄 Databases
+- MySQL  
+- MongoDB (beginner, learning CRUD + queries)
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Postman  
+- XAMPP / phpMyAdmin  
+- Chrome DevTools  
+
+### 🎨 Design & Editing
+- Adobe Photoshop  
+- Adobe Premiere Pro  
+- Canva  
+- Lightroom (mobile)  
+
+### 📸 Photography Experience
+- Experience working with **Nikon, Sony, and Canon** camera systems  
+- Skilled in **portrait, street, and event photography**  
+- Covered fests, hackathons, movie promotions, campus events, and cultural programs  
+
+## 📈 Current Goals (2026)
 - Master **Java + DSA + Web Development**  
 - Build **3 strong full-stack projects** for portfolio  
 - Improve **React.js + MongoDB**  
